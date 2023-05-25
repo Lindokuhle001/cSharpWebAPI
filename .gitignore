@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+#.prettierrc
+.prettierrc
 # User-specific files
 *.rsuser
 *.suo
@@ -381,6 +383,7 @@ FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
 .vscode/*
+.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
